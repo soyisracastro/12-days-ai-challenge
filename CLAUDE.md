@@ -38,10 +38,11 @@ Cada día debe incluir estos archivos en su carpeta:
 
 ```
 dia-XX-nombre/
-├── slides-script.md      # Slides con script para teleprompter
-├── [recursos].md         # Material específico del día (matrices, guías, plantillas)
-├── ejercicios-practicos.md  # Ejercicios para 30-45 min de práctica
-└── README.md             # Resumen para página de Notion
+├── slides-script.md           # Slides con script para teleprompter
+├── ejercicios-practicos.md    # Ejercicios para 30-45 min de práctica
+├── contenido-plataforma.md    # Contenido para plataforma Nas.io (NUEVO)
+├── [recursos].md              # Material específico del día (matrices, guías, plantillas)
+└── README.md                  # Resumen para página de Notion
 ```
 
 ### Especificaciones de Contenido
@@ -52,7 +53,7 @@ dia-XX-nombre/
 | **Duración práctica** | 30-45 minutos |
 | **Nivel participantes** | Principiantes (nunca/casi nunca han usado IA) |
 | **Formato slides** | Markdown estructurado (para Canva/PowerPoint) |
-| **Entrega material** | Notion/Docs |
+| **Entrega material** | Notion/Docs y Plataforma Nas.io |
 | **Script** | Listo para leer en teleprompter |
 
 ---
@@ -95,6 +96,122 @@ dia-XX-nombre/
 - **Contexto fiscal:** México (SAT, CFDI, LISR, CFF, etc.)
 - **Ejemplos:** Prácticos y relevantes para contadores mexicanos
 - **Sin emojis** en el contenido a menos que se solicite explícitamente
+
+---
+
+## Contenido para Plataforma Nas.io (contenido-plataforma.md)
+
+### Propósito
+Este archivo contiene el contenido específico para publicar en la plataforma Nas.io donde los participantes acceden al reto. Es diferente a los otros materiales porque está orientado a la **acción directa** del participante.
+
+### Estructura del Archivo
+
+Cada `contenido-plataforma.md` debe incluir:
+
+1. **Descripción del Día**
+   - ¿Qué aprenderán hoy? (2-3 párrafos)
+   - Objetivos específicos del día (4 objetivos con checkmarks)
+
+2. **¿Qué debes hacer para completar el Día?** (Paso a paso)
+   - Paso 1: Ver la clase (20-30 min) - incluir link al video
+   - Paso 2: Acción específica (ej: crear cuentas, descargar herramienta)
+   - Paso 3: Descargar recursos (2 min)
+   - Paso 4: Hacer ejercicios prácticos (30-45 min)
+   - Paso 5: Responder preguntas del formulario (5-10 min)
+
+3. **Recursos y Adjuntos**
+   - Lista de documentos para descargar con iconos (📄, 📊, 🔗)
+   - Links importantes a herramientas o recursos externos
+   - Link al grupo de comunidad
+
+4. **Preguntas para Completar el Día (Formulario)**
+   - 3 preguntas obligatorias + 1 BONUS opcional
+   - Ver especificaciones detalladas abajo
+
+5. **Criterios para Marcar el Día como Completado**
+   - Checklist con estimación de tiempo por tarea
+   - Tiempo total estimado
+
+6. **¿Qué sigue?**
+   - Preview del día siguiente
+   - Tarea opcional de preparación si aplica
+
+7. **Extras**
+   - Consejos para aprovechar el día
+   - FAQs del día
+   - Información de soporte
+
+### Especificaciones de Preguntas del Formulario
+
+**IMPORTANTE:** Las preguntas deben ser **sencillas, directas y no abrumadoras**.
+
+#### Características de las Preguntas:
+
+- **Respuestas cortas:** 2-3 líneas (no 200-300 palabras)
+- **Preguntas específicas:** Con respuestas claras que validan comprensión
+- **Desafiantes pero no abrumadoras:** Hacen pensar pero no frustran
+- **Motivadoras:** Los participantes se sienten capaces de responder
+- **Rápidas de responder:** 5-10 minutos total para las 3 obligatorias
+
+#### Tipos de Preguntas Recomendadas:
+
+**Tipo 1: Pregunta conceptual directa**
+- Ejemplo: "¿Qué IA es la mejor: ChatGPT, Claude o Gemini? Explica en 2-3 líneas."
+- Valida comprensión del concepto central del día
+- Respuesta esperada: Ninguna es la mejor, cada una según la necesidad
+
+**Tipo 2: Aplicación práctica (caso específico)**
+- Ejemplo: "Tu cliente te envió un contrato de 80 páginas. ¿Qué herramienta usarías y por qué? (2-3 líneas)"
+- Practican aplicar el framework aprendido
+- Caso real de su trabajo
+
+**Tipo 3: Completar fórmula o concepto clave**
+- Ejemplo: "Completa: La fórmula del prompt efectivo es _____ + _____ + _____ + _____"
+- Refuerza memorización de conceptos importantes
+- Simple y rápido de responder
+
+**Tipo 4 (BONUS - Opcional): Práctica adicional**
+- Ejemplo: "Crea un prompt usando la fórmula ROL+CONTEXTO+TAREA+FORMATO (3-5 líneas)"
+- Da oportunidad de practicar sin ser obligatorio
+- Crea algo útil para su trabajo
+
+#### Formato de Cada Pregunta:
+
+```markdown
+### Pregunta X: [Título] (Tipo de respuesta)
+
+**Pregunta:**
+```
+[Texto de la pregunta clara y directa]
+
+Opciones: [si aplica]
+Responde en 2-3 líneas.
+```
+
+**Respuesta esperada:**
+[Qué respuesta se espera - para referencia del instructor]
+
+**Por qué esta pregunta:**
+- [Razón 1: qué valida]
+- [Razón 2: qué practica]
+- [Característica: extensión]
+```
+
+#### Reglas para Crear Preguntas:
+
+✅ **SÍ hacer:**
+- Preguntas directas con respuestas de 2-5 líneas
+- Validar comprensión de conceptos clave del día
+- Casos prácticos específicos de su trabajo
+- Una pregunta opcional (BONUS) para los que quieran profundizar
+- Total: 3 obligatorias + 1 opcional
+
+❌ **NO hacer:**
+- Pedir respuestas largas (200-300 palabras)
+- Preguntas abiertas sin dirección clara
+- Más de 3 preguntas obligatorias
+- Preguntas que requieren investigación adicional
+- Preguntas que no están relacionadas con el contenido del día
 
 ---
 
