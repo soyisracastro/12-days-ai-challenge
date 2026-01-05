@@ -15,7 +15,7 @@ Este proyecto contiene el contenido completo para un reto/taller de 12 días sob
 - **Día 2:** Caso Comparativo CFDI 4.0 - Mismo problema con ChatGPT, Claude y Gemini
 - **Día 3:** Prompts Universales - Fórmula ROL+CONTEXTO+TAREA+FORMATO + 10 plantillas
 
-### Semana 2: Especialización (Días 4-6)
+### Semana 2: Especialización (Días 4-6) ✅ COMPLETADA
 - **Día 4:** Custom GPTs Fiscales - Asistentes especializados sin código (RESICO, nómina, CFDI)
 - **Día 5:** Claude Projects - Análisis de contratos, dictámenes y normativa extensa
 - **Día 6:** Gemini + Google Workspace - Conexión con Drive, Sheets, Docs
@@ -82,7 +82,7 @@ dia-XX-nombre/
 ## Progreso
 
 - [x] Semana 1: Fundamentos (Días 1-3)
-- [ ] Semana 2: Especialización (Días 4-6)
+- [x] Semana 2: Especialización (Días 4-6)
 - [ ] Semana 3: Herramientas Avanzadas (Días 7-9)
 - [ ] Semana 4: Aplicación y Negocio (Días 10-12)
 
