@@ -101,49 +101,50 @@ Responde estas 3 preguntas sencillas para validar que entendiste el flujo de tra
 
 ---
 
-### Pregunta 1: Elige la Herramienta Correcta (Respuesta de texto corta)
+### Pregunta 1: El Flujo Estrategico (Respuesta de texto corta)
 
 **Pregunta:**
 ```
 Recibes un CFDI por $500,000 de maquinaria de un proveedor que nunca has visto.
 
-¿Que herramienta(s) usarias y en que orden?
+¿Que herramienta(s) usarias Y EN QUE ORDEN? Explica brevemente qué aporta cada una.
 
 Responde en 2-3 lineas.
 ```
 
 **Respuesta esperada:**
-Gemini primero para verificar el RFC del proveedor y buscar alertas. Luego Claude para hacer un analisis profundo del CFDI y detectar riesgos. Finalmente ChatGPT si necesito redactar algo para el cliente.
+Primero Gemini para verificar RFC y alertas SAT. Luego Claude para análisis profundo y riesgos fiscales. Finalmente ChatGPT para redactar el plan de acción. Cada una aporta una capa diferente.
 
 **Por que esta pregunta:**
-- Valida comprension del flujo de 3 pasos
-- Caso practico y relevante (monto alto + proveedor desconocido)
-- Respuesta corta (2-3 lineas)
+- Valida que entendieton que NO es elegir UNA, es COMBINAR las tres
+- Enfatiza el ORDEN (defensa en profundidad, no al azar)
+- Caso practico relevante (monto alto + riesgo alto)
+- Respuesta corta pero que exige pensamiento estrategico
 
 ---
 
-### Pregunta 2: Fortaleza de Cada Herramienta (Respuesta de texto corta)
+### Pregunta 2: ¿Cual es el Rol de Cada Una? (Respuesta de texto corta)
 
 **Pregunta:**
 ```
-Segun lo aprendido hoy, completa:
+Basado en lo que viste hoy, ¿cual es el ROL ESPECIFICO de cada herramienta en tu flujo de validacion de CFDI?
 
-- ChatGPT es mejor para: _____________
-- Claude es mejor para: _____________
-- Gemini es mejor para: _____________
+- ChatGPT =
+- Claude =
+- Gemini =
 
-(Una frase por herramienta)
+(Una frase breve y clara por herramienta)
 ```
 
 **Respuesta esperada:**
-- ChatGPT: Respuestas rapidas y claras, comunicacion con clientes
-- Claude: Analisis profundo, fundamentos legales, casos complejos
-- Gemini: Informacion actualizada, verificar RFCs, alertas del SAT
+- ChatGPT: Convertir análisis técnico en acciones claras para el cliente
+- Claude: Análisis profundo con números, artículos y riesgos cuantificados
+- Gemini: Validar en tiempo real que el proveedor esté limpio en el SAT
 
 **Por que esta pregunta:**
-- Refuerza el concepto central del dia
-- Valida que entendieron las diferencias
-- Formato simple y rapido de responder
+- Hace énfasis en ROLES especificos, no "fortalezas generales"
+- Valida que entendieron qué aporta CADA UNA al flujo conjunto
+- Diferente a las fortalezas genéricas: esto es su ROL en TU proceso
 
 ---
 
@@ -260,10 +261,16 @@ R: El uso de CFDI afecta directamente la deducibilidad del gasto. Un uso incorre
 
 ---
 
-**Hoy viste en accion las diferencias reales entre las herramientas.**
+**Nota importante: La leccion de hoy va mas alla de "elegir la herramienta correcta"**
 
-ChatGPT para rapidez y claridad. Claude para profundidad y analisis. Gemini para informacion actualizada.
+Es muy similar a lo que vimos ayer en el Dia 1, ¿verdad? Matriz, herramientas, frameworks.
 
-No hay una mejor, hay una mas adecuada para cada situacion.
+Pero aqui esta el verdadero poder del Dia 2: **no se trata de elegir UNA herramienta, se trata de saber COMBINAR las tres estrategicamente.**
+
+Cuando usas Gemini para validar primero, Claude para analizar profundamente, y ChatGPT para comunicar, cubres todos los angulos. Eso es lo que hace la diferencia.
+
+**El Dia 1 te enseno a pensar diferente. El Dia 2 te enseno que los verdaderos resultados vienen de usar las herramientas como un equipo, no como opciones individuales.**
+
+Manana en el Dia 3 aprenderas la formula universal para construir estos flujos estrategicos con confianza.
 
 Nos vemos en el Dia 3.
